@@ -18,7 +18,6 @@ public class ReceiptService {
         var receipt = receiptGenerator.generate(basket);
         receipt = discount1.apply(receipt);
         receipt= discount2.apply(receipt);
-        receipt.totalPrice();
         return receipt;
     }
 }
