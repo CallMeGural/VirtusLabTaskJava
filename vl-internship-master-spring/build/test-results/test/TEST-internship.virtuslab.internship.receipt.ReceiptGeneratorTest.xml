@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="internship.virtuslab.internship.receipt.ReceiptGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-15T11:53:42" hostname="DESKTOP-SRGQQM0" time="0.04">
+  <properties/>
+  <testcase name="shouldGenerateReceiptForGivenBasket()" classname="internship.virtuslab.internship.receipt.ReceiptGeneratorTest" time="0.04"/>
+  <system-out><![CDATA[[Product[name=Milk, type=DAIRY, price=2.7], Product[name=Milk, type=DAIRY, price=2.7], Product[name=Bread, type=GRAINS, price=5], Product[name=Bread, type=GRAINS, price=5], Product[name=Apple, type=FRUITS, price=2]]
+[ReceiptEntry[product=Product[name=Bread, type=GRAINS, price=5], quantity=2, totalPrice=10], ReceiptEntry[product=Product[name=Apple, type=FRUITS, price=2], quantity=1, totalPrice=2], ReceiptEntry[product=Product[name=Milk, type=DAIRY, price=2.7], quantity=2, totalPrice=5.4]]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+Ù[Product[name=Milk, type=DAIRY, price=2.7], Product[name=Milk, type=DAIRY, price=2.7], Product[name=Bread, type=GRAINS, price=5], Product[name=Bread, type=GRAINS, price=5], Product[name=Apple, type=FRUITS, price=2]]
+–[ReceiptEntry[product=Product[name=Bread, type=GRAINS, price=5], quantity=2, totalPrice=10], ReceiptEntry[product=Product[name=Apple, type=FRUITS, price=2], quantity=1, totalPrice=2], ReceiptEntry[product=Product[name=Milk, type=DAIRY, price=2.7], quantity=2, totalPrice=5.4]]
